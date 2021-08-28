@@ -1,1 +1,1 @@
-aqui vou fazer minhas atividades de typesc
+aqui vou fazer minhas atividades de types
