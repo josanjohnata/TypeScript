@@ -1,1 +1,1 @@
-qui vou fazer minh
+qui vou fazer min
