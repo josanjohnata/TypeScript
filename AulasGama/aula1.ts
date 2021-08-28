@@ -1,1 +1,1 @@
-aqui vou fazer minhas atividades de typescri
+aqui vou fazer minhas atividades de typescr
