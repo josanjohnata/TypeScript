@@ -1,1 +1,1 @@
-qui vou fazer minhas 
+qui vou fazer minhas
