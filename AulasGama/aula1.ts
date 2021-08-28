@@ -1,1 +1,1 @@
-aqui vou fazer minhas atividades de ty
+aqui vou fazer minhas atividades de t
