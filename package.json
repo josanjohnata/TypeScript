@@ -1,0 +1,29 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "Projeto de teste do TypeScript",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josanjohnata/TypeScript.git"
+  },
+  "keywords": [
+    "typescript",
+    "usuario",
+    "criacao"
+  ],
+  "author": "Josan Johnata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josanjohnata/TypeScript/issues"
+  },
+  "homepage": "https://github.com/josanjohnata/TypeScript#readme",
+  "dependencies": {
+    "@types/node": "^16.7.5",
+    "query-string": "^7.0.1",
+    "typescript": "^4.3.5"
+  }
+}
